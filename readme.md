@@ -4,7 +4,7 @@ This repository contains introductory experiments in **FPGA synthesis and simula
 The goal of this project is to practice writing, synthesizing, and testing basic **combinational and sequential circuits** on FPGA platforms.
 
 ---
-
+```
 ## 📂 Repository Structure
 FPGA_Basic_Synthesis/
 │── README.md # Project documentation
@@ -16,7 +16,7 @@ FPGA_Basic_Synthesis/
 │── synthesis_reports/
 │ ├── vivado_log.txt # Log file from Xilinx Vivado synthesis
 │ └── waveform.png # Simulation waveform output
-
+```
 ---
 
 ## 🛠 Tools & Environment
