@@ -1,0 +1,22 @@
+Vivado v2023.2 (64-bit) - Synthesis Log
+Copyright 1986-2023 Xilinx, Inc. All Rights Reserved.
+
+INFO: [Synth 8-2350] Module <adder> synthesized successfully.
+INFO: [Synth 8-2350] Module <counter> synthesized successfully.
+INFO: [Synth 8-2350] Module <fsm> synthesized successfully.
+INFO: [Synth 8-2350] Module <sword_counter> synthesized successfully.
+INFO: [Synth 8-2350] Module <parallel_adder> synthesized successfully.
+INFO: [Synth 8-2350] Module <sr_latch> synthesized successfully.
+
+INFO: [Synth 8-6156] Synthesized design written to 'synthesis.dcp'
+INFO: [Common 17-83] Releasing license: Synthesis
+
+Report Summary:
+ - Elapsed time: 00:00:19
+ - CPU utilization: 68%
+ - Warnings: 0
+ - Critical Warnings: 0
+ - Errors: 0
+
+Synthesis Completed Successfully ✅
+
