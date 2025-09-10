@@ -7,15 +7,15 @@ The goal of this project is to practice writing, synthesizing, and testing basic
 ```
 ## 📂 Repository Structure
 FPGA_Basic_Synthesis/
-│── README.md # Project documentation
-│── adder.v # Verilog implementation of a simple adder
-│── counter.v # Verilog code for a synchronous counter
-│── fsm.v # Example finite state machine
-│── paralleladder.v # Verilog implementation of a parallel adder
-│── sr_latch.v # Verilog code for an SR Latch
+│── README.md 
+│── adder.v 
+│── counter.v 
+│── fsm.v
+│── paralleladder.v
+│── srlatch.v 
 │── synthesis_reports/
-│ ├── vivado_log.txt # Log file from Xilinx Vivado synthesis
-│ └── waveform.png # Simulation waveform output
+│ ├── vivado_log.txt 
+│ └── waveform 
 ```
 ---
 
