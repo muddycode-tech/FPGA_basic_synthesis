@@ -1,4 +1,4 @@
-# FPGA Basic Synthesis 🚀
+# FPGA-Based Digital Logic Design Using Verilog HDL 🚀
 
 This repository contains introductory experiments in **FPGA synthesis and simulation** using Verilog HDL.  
 The goal of this project is to practice writing, synthesizing, and testing basic **combinational and sequential circuits** on FPGA platforms.
